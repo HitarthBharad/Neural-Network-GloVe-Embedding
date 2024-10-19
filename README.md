@@ -4,7 +4,7 @@
 2. create, train and run a recurrent neural network 
 3. initialize an embedding layer with pre-trained word embeddings
 
-# Setup your environment and prepare data
+# Setup
 
 To install the libraries required for this assignment run:
 
